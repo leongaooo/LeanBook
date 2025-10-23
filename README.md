@@ -30,8 +30,8 @@
 ---
 
 ## 🗂️ 内容结构
-/
-├── x6 //https://github.com/antvis/X6
+
+├── x6 https://github.com/antvis/X6
 
 
 ## 📄 学习方式与原则
